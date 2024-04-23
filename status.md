@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Vincent Chiu
 
 #### Your section leader's name
 
-TODO
+Andrew Rosen
 
 #### Project title
 
-TODO
+Rosen Clicker
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+I have done some research on how to start a clicker game, through Youtube videos and websites.
 
 #### What have you not done for your project yet?
 
-TODO
+I haven't started the actual file for coding yet, since I wasn't sure how to start it and was too focused on researching, but this will be made pronto.
 
 #### What problems, if any, have you encountered?
 
-TODO
+Not any problems that I have encountered as of right now.
